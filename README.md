@@ -5,3 +5,6 @@ Hello World!
 * Hello
 * World
 * !
+
+TODO:
+* add a _config.yml to website repo with a design specification for the site (to make it nice)
