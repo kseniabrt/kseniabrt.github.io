@@ -1,10 +1,5 @@
-(Link: https://kseniabrt.github.io/)
-"Programming in Python using AI" Course in Weizmann 2026-2027
+[🌐 LinkedIn](https://www.linkedin.com/in/ksenia-ksusha-burgart-976a8612a/) | [💻 GitHub](https://github.com/kseniabrt) | [📂 Analysis Portfolio](https://drive.google.com/drive/folders/1xfOautWw4I_ItFFmR7ufScNNjghM5syO) | [📄 Scientific Publication](https://www.jneurosci.org/content/43/27/5045)
 
-* Hello World!
-
----
-layout: default
 ---
 
 📍 Israel | ✉️ kseniabrt@gmail.com
@@ -54,10 +49,10 @@ experimental design, quality assurance.
 
 ## 🎓 Education & Certifications
 * **B.Sc. in Neuroscience and Psychology** – Bar-Ilan University
-* **Big Data Analyst Certification** – Technion - Israel Institute of Technology
+* **Big Data Analyst Certification** – Technion, Israel Institute of Technology
 * **Advanced MSc Coursework** – Weizmann School of Science (WSoS) - statistics and Data Analysis courses
 * **Social and Behavioral Research certificates (GCP and CITI programs)** - Weizmann School of Science (WSoS)
 
 ---
 
-[🌐 LinkedIn](https://www.linkedin.com/in/ksenia-ksusha-burgart-976a8612a/) | [💻 GitHub](https://github.com/kseniabrt) | [📂 Analysis Portfolio](https://drive.google.com/drive/folders/1xfOautWw4I_ItFFmR7ufScNNjghM5syO) | [📄 Scientific Publication](https://www.jneurosci.org/content/43/27/5045)
+
