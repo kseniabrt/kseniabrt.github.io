@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Profile
-Data professional with over 4 years of experience spanning product R&D environments, tech startups, and scientific research institutes. A strong background in data validation, Quality Assurance and complex systems
+Data professional with over 4 years of experience spanning product R&D environments, tech startups, and scientific research institutes. A strong background in data validation, Exploratory Data Analysis (EDA), Quality Assurance and complex systems
 
 ---
 
