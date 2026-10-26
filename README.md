@@ -43,7 +43,7 @@ experimental design, quality assurance.
 
 ### **Quality Assurance Engineer**
 *Siemens Digital Industries Software (2017 – 2018, 1.5 years)*
-* Verified product data integrity and software application releases under the Mentor Graphics division.
+* Validated dashboard and native-desktop applications data integrity of Valor solution.
 
 ---
 
