@@ -1,6 +1,14 @@
 title: Ksenia Burgart (Ksusha, Ксюша)
 description: Data Analyst / Analytics Engineer
 theme: jekyll-theme-minimal
-google_analytics: # Add your tracking ID here if you ever use one
-plugins:
-  - jekyll-feed
+show_downloads: false
+
+links:
+  - name: 🌐 LinkedIn
+    url: https://www.linkedin.com/in/ksenia-ksusha-burgart-976a8612a/
+  - name: 💻 GitHub
+    url: https://github.com/kseniabrt
+  - name: 📂 Analysis Portfolio
+    url: https://drive.google.com/drive/folders/1xfOautWw4I_ItFFmR7ufScNNjghM5syO
+  - name: 📄 Scientific Publication
+    url: https://www.jneurosci.org/content/43/27/5045
