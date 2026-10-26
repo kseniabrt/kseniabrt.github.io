@@ -1,0 +1,6 @@
+title: Ksenia Burgart (Ksusha)
+description: Data Analyst / Analytics Engineer
+theme: jekyll-theme-minimal
+google_analytics: # Add your tracking ID here if you ever use one
+plugins:
+  - jekyll-feed
